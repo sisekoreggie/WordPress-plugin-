@@ -1,1 +1,14 @@
 This Plugin pulls facebook posts for you at any time you want to.
+
+Currently the plugin works as follow:
+1. You should download, install and then activate the plugin
+2. After activating your plugin 
+	(a) Go to Add New Post on your wordpress dashboard
+	(b) Add whatever heding that you want for your post
+	(c) copy the following shortcode 
+		[fb-post href=""]
+		replace the quotation marks after 'href' with the facebook post URL that you want to have on your blog
+		
+To find your facebook post URL, go to the post that you want
+	(a) Then look for a date on the last comments of the post
+	(b) Click on that date and then after that copy the whole link in your browser
